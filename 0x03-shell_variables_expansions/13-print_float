@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 0.25 | export NUM=0.25
+printf "%.2f \n" 0.25 | export NUM=0.25
