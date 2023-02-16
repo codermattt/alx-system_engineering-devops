@@ -1,2 +1,2 @@
 #!/bin/bash
-echo o.25 | export NUM=0.25
+echo 0.25 | export NUM=0.25
